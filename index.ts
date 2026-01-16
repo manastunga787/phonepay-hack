@@ -20,4 +20,4 @@ const context = await browser.newContext({
 });
 
 const page = await context.newPage();
-await page.goto("https://econnect.bpcl.in/selfservice-ext/pub/login.html");
+await page.goto("https://bot.sannysoft.com/");
